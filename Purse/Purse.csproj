@@ -47,20 +47,6 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
-  </ItemGroup>
-  <ItemGroup>
-    <ProjectReference Include="..\BusinessCard\BusinessCard.csproj">
-      <Project>{24d43d64-c603-4d4d-a8df-84b10f13c004}</Project>
-      <Name>BusinessCard</Name>
-    </ProjectReference>
-    <ProjectReference Include="..\CreditCard\CreditCard.csproj">
-      <Project>{3fcdb6f2-ca1c-4300-ac0a-3a2425df5a53}</Project>
-      <Name>CreditCard</Name>
-    </ProjectReference>
-    <ProjectReference Include="..\Money\Money.csproj">
-      <Project>{a3ec71f0-bfb9-48b9-b2b6-2acb3311d701}</Project>
-      <Name>Money</Name>
-    </ProjectReference>
-  </ItemGroup>
+  </ItemGroup>  
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

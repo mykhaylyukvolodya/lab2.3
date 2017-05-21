@@ -50,7 +50,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\BusinessCard\BusinessCard.csproj">
-      <Project>{24d43d64-c603-4d4d-a8df-84b10f13c004}</Project>
+      <Project>{e761d7b4-59f1-44f2-9ab6-80db15dd49cb}</Project>
       <Name>BusinessCard</Name>
     </ProjectReference>
     <ProjectReference Include="..\CreditCard\CreditCard.csproj">

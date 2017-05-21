@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>24d43d64-c603-4d4d-a8df-84b10f13c004</ProjectGuid>
+    <ProjectGuid>e761d7b4-59f1-44f2-9ab6-80db15dd49cb</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>BusinessCard</RootNamespace>

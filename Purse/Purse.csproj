@@ -49,6 +49,10 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\BusinessCard\BusinessCard.csproj">
+      <Project>{24d43d64-c603-4d4d-a8df-84b10f13c004}</Project>
+      <Name>BusinessCard</Name>
+    </ProjectReference>
     <ProjectReference Include="..\CreditCard\CreditCard.csproj">
       <Project>{3fcdb6f2-ca1c-4300-ac0a-3a2425df5a53}</Project>
       <Name>CreditCard</Name>

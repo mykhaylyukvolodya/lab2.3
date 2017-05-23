@@ -22,7 +22,7 @@ namespace Purse
             Console.WriteLine("This is working");
             Console.WriteLine(bcard.FindOutWhose());
             Console.WriteLine("This is working");
-
+            Console.WriteLine(bcard.FindOutWhose());
             var money = new Money.Money(1000);
             
 

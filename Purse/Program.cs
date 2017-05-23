@@ -26,8 +26,7 @@ namespace Purse
             var money = new Money.Money(1000);
             
 
-            var bcard = new BusinessCard.BusinessCard("Vova");
-            Console.WriteLine(bcard.FindOutWhose());
+            
         }
     }
 }

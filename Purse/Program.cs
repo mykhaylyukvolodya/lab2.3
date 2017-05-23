@@ -24,7 +24,7 @@ namespace Purse
             Console.WriteLine("This is working");
 
             var money = new Money.Money(1000);
-            Console.WriteLine(money.GetMoney());
+            
 
             var bcard = new BusinessCard.BusinessCard("Vova");
             Console.WriteLine(bcard.FindOutWhose());

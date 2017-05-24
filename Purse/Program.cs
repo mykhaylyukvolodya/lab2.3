@@ -27,11 +27,11 @@ namespace Purse
 
             Console.WriteLine(bcard.FindOutWhose());
 
-            var money = new Money.Money(1000);
-            Console.WriteLine(bcard.FindOutWhose());
+            
             Console.WriteLine("This is working");
 
-
+            var bcard = new BusinessCard.BusinessCard("Vova");
+            Console.WriteLine(bcard.FindOutWhose());
         }
     }
 }
